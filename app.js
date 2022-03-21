@@ -10,3 +10,7 @@ app.listen(3000);
 app.get('/uno', (req,res)=>{
     res.send('Hello world from the route one!');
 });
+
+app.get('/joshuaPrueba', (req,res) => {
+    res.send('<p>Hola desde prueba en html</p>');
+});

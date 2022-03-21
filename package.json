@@ -1,6 +1,5 @@
 {
   "name": "practica9",
-  "type": "module",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
